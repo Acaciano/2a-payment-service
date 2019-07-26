@@ -1,2 +1,1 @@
-# 2a-payment-service
-Payment Service - MundiPagg
+# 2A Payment Service - MundiPagg
